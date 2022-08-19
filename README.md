@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Mohammad zaki
 
 Here are some ideas to get you started:
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 LinkedIn: https://www.linkedin.com/in/mohammad-zaki-b48821158/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
