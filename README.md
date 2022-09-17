@@ -2,8 +2,9 @@
 
 
 <h1>Mohammad Zaki</h1>
+<h3>Full Stack Developer</h1>
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Masai School
 - 🌱 I’m currently learning Web Developer Course from Masai School
