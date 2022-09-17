@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Mohammad zaki
+<h1>Mohammad Zaki</h1>
 
 Here are some ideas to get you started:
 
