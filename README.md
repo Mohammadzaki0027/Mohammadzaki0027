@@ -10,11 +10,12 @@
      <hr/>
       <h2>Tech Skills</h2>
       <hr/>
-      <div display="flex">
-      <div><li>CSS</li></div>
-     <div><li>CSSs</li></div>
-      </div>
-    <li>HTML</li>    <li>CSS</li>
+     
+    <span>HTML</li>       <span>CSS</li>
+ 
+    
+    <li>HTML</li>    
+    <li>CSS</li>
     <li>Redux</li>
     <li>React</li>
     <li>Mongoose</li>
