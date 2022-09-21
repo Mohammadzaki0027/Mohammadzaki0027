@@ -8,11 +8,18 @@
     environment.Looking to deliver excellent web development
     skills in the MERN stack.</p>
     
-    <div style="border 1px solid red">
-     <h1>Tech Skills</h1>   
+    <h1>Tech Skills</h1>   
     
+    <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Redux</li>
+    <li>React</li>
+    <li>Mongoose</li>
+    <li>Moongo Db</li>
+</ul>
     
-    </div>
+  
 
 
 - 🔭 I’m currently working on Masai School
