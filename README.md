@@ -11,9 +11,8 @@
       <h2>Tech Skills</h2>
       <hr/>
      
-    <span>HTML</span>       <span>CSS</span>
- 
-    
+    <li>HTML</li>      
+    <li>CSS</li>
     <li>HTML</li>    
     <li>CSS</li>
     <li>Redux</li>
