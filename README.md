@@ -8,6 +8,8 @@
     environment.Looking to deliver excellent web development
     skills in the MERN stack.</p>
     
+    
+  
     <h1>Tech Skills</h1>   
     
     <ul>
@@ -18,11 +20,6 @@
     <li>Mongoose</li>
     <li>Moongo Db</li>
 </ul>
-    
-  
-
-
-- 🔭 I’m currently working on Masai School
 - 🌱 I’m currently learning Web Developer Course from Masai School
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
