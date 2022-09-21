@@ -12,14 +12,14 @@
   
     <h1>Tech Skills</h1>   
     
-    <ul>
+   
     <li>HTML</li>
     <li>CSS</li>
     <li>Redux</li>
     <li>React</li>
     <li>Mongoose</li>
     <li>Moongo Db</li>
-</ul>
+
 - 🌱 I’m currently learning Web Developer Course from Masai School
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
