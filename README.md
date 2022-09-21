@@ -8,6 +8,8 @@
     environment.Looking to deliver excellent web development
     skills in the MERN stack.</p>
      <hr/>
+      <h2>Tech Skills</h2>
+      <hr/>
     <li>HTML</li>    <li>CSS</li>
     <li>Redux</li>
     <li>React</li>
