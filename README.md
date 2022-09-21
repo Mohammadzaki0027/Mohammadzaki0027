@@ -8,7 +8,11 @@
     environment.Looking to deliver excellent web development
     skills in the MERN stack.</p>
      <hr/>
-    <li>HTML</li>
+    <li>HTML</li>    <li>CSS</li>
+    <li>Redux</li>
+    <li>React</li>
+    <li>Mongoose</li>
+    <li>Moongo Db</li>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
