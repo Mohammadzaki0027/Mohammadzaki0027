@@ -24,4 +24,4 @@
   <br/>
   <a href="https://portfolio-zaki.vercel.app">Portfolio</a>
   <br/>
-  <a href="mohammadzaki7058@gmail.com">Gmail</a>
+  <a href="mailto:mohammadzaki7058@gmail.com">Gmail</a>
