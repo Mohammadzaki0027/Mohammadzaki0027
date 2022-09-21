@@ -26,7 +26,7 @@
   <br/>
   <a href="mailto:mohammadzaki7058@gmail.com" target="_blank">Gmail</a>
      <hr/>
-    <h1>Projects/h1>
+    <h1>Projects</h1>
 <hr/>
   <li>
         <a href="https://timecampcloneweb.netlify.app">Time Clamp</a>
