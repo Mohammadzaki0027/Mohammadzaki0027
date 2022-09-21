@@ -10,8 +10,7 @@
      <hr/>
       <h2>Tech Skills</h2>
       <hr/>
-     
-    <li>HTML</li>      
+     <li>HTML</li>      
     <li>CSS</li>
     <li>HTML</li>    
     <li>CSS</li>
