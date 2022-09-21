@@ -1,8 +1,5 @@
-### Hi there 👋
-
-
 <h1>Mohammad Zaki</h1>
-<h3>Full Stack Developer</h1>
+    <h2 style="text-align: center;">Full Stack Web Developer</h2>
 
 
 
