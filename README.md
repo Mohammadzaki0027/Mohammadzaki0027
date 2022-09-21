@@ -15,10 +15,11 @@
     <li>React</li>
     <li>Mongoose</li>
     <li>Moongo Db</li>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-LinkedIn:<a href="https://www.linkedin.com/in/mohammad-zaki-b48821158/" />
-- LinkedIn
+    <li>JavaScript</li>
+    <li>Express</li>
+    <hr/>
+    <h1>Connect</h1>
+<hr/>
+  <a href="https://www.linkedin.com/in/mohammad-zaki-b48821158">LinkedIn</a>
+
 - ⚡ Fun fact: ...
