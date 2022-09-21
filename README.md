@@ -7,18 +7,13 @@
     passionate about Contributing to the highly collaborative work
     environment.Looking to deliver excellent web development
     skills in the MERN stack.</p>
-    
+     <hr/>
     
   
     <h1>Tech Skills</h1>   
     
    
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Redux</li>
-    <li>React</li>
-    <li>Mongoose</li>
-    <li>Moongo Db</li>
+   
 
 - 🌱 I’m currently learning Web Developer Course from Masai School
 - 👯 I’m looking to collaborate on ...
