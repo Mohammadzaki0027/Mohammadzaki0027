@@ -20,7 +20,7 @@
     <hr/>
     <h1>Connect</h1>
 <hr/>
-  <a href="https://www.linkedin.com/in/mohammad-zaki-b48821158" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mohammad-zaki-b48821158" target="_blank"">LinkedIn</a>
   <br/>
   <a href="https://portfolio-zaki.vercel.app" target="_blank">Portfolio</a>
   <br/>
