@@ -8,14 +8,7 @@
     environment.Looking to deliver excellent web development
     skills in the MERN stack.</p>
      <hr/>
-    
-  
-    <h1>Tech Skills</h1>   
-    
-   
-   
-
-- 🌱 I’m currently learning Web Developer Course from Masai School
+    <li>HTML</li>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
