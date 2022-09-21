@@ -1,5 +1,12 @@
   <h1>Mohammad Zaki (Full Stack Developer)</h1>
-
+   <h1>About</h1>
+   
+   <p>I am a passionate Web Developer. Proficient in React, Redux,
+    HTML, CSS, and Javascript, So Glad to boost My skills, which
+    l learned, and implement them in a better manner, and
+    passionate about Contributing to the highly collaborative work
+    environment.Looking to deliver excellent web development
+    skills in the MERN stack.</p>
 
 
 - 🔭 I’m currently working on Masai School
