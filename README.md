@@ -21,5 +21,5 @@
     <h1>Connect</h1>
 <hr/>
   <a href="https://www.linkedin.com/in/mohammad-zaki-b48821158">LinkedIn</a>
-
-- ⚡ Fun fact: ...
+  <a href="https://portfolio-zaki.vercel.app">Portfolio</a>
+  <a href="mohammadzaki7058@gmail.com">Gmail</a>
