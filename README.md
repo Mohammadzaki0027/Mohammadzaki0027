@@ -7,6 +7,12 @@
     passionate about Contributing to the highly collaborative work
     environment.Looking to deliver excellent web development
     skills in the MERN stack.</p>
+    
+    <div style="border 1px solid red">
+     <h1>Tech Skills</h1>   
+    
+    
+    </div>
 
 
 - 🔭 I’m currently working on Masai School
