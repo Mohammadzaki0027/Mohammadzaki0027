@@ -1,5 +1,4 @@
-<h1>Mohammad Zaki</h1>
-    <h2 style="text-align: center;">Full Stack Web Developer</h2>
+  <h1>Mohammad Zaki (Full Stack Developer)</h1>
 
 
 
