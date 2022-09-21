@@ -25,3 +25,23 @@
   <a href="https://portfolio-zaki.vercel.app" target="_blank">Portfolio</a>
   <br/>
   <a href="mailto:mohammadzaki7058@gmail.com" target="_blank">Gmail</a>
+  
+  
+    <hr/>
+    <h1>Projects</h1>
+    <hr/>
+  
+  <li>
+        <a href="https://timecampcloneweb.netlify.app">Time Clamp</a>
+        </li>
+        <li>
+        <a href="https://barbarous-use-2331app.vercel.app">Cricket.Com</a>
+        </li>
+        <li>
+        <a href="https://rococo-jalebi-9c168f.netlify.app">Nykaa.Com</a>
+        </li>
+        <li>
+            <a href="https://precious-sorbet-178450.netlify.app">Unsplash.Com</a>
+            </li>
+  
+  
