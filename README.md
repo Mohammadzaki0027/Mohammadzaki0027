@@ -1,4 +1,4 @@
-  ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+  ![MasterHead](https://www.vivoticsol.com/wp-content/uploads/2018/02/banner-web-development.jpg?x46667)
    <h1 align="center">Hi 👋, I'm Mohammad Zaki</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <img align="right" width="400px" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" alt="">
