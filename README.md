@@ -4,7 +4,7 @@
 <img align="right" width="400px" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadzaki0027&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadzaki0027" /> </p>
 
-- 🔭 I am working on **Clone of Net-dairy**
+- 🔭 I am working on **Backend Skills **
 
 - 🌱 I’m currently learning **MERN,DSA**
 
