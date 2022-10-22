@@ -13,7 +13,7 @@
 
 - 🤝I worked on Individual Project [Clone Cricket.com](https://barbarous-use-2331app.vercel.app/)
 
-- 👨‍💻 All of my projects are available on My Portfolio Link [https://portfolio-zaki.vercel.app](https://portfolio-zaki.vercel.app)
+- 👨‍💻 All of my projects are available on My Portfolio Link [https://mohammadzaki0027.github.io/](https://mohammadzaki0027.github.io/)
 
 - 💬 Ask me about **Full Stack Web Developer**
 
