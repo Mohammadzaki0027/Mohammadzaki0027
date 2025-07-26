@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **Full Stack Web Developer**
 
-- 📫 How to reach me **mohammadzaki7058@gmail.com**
+- 📫 How to reach me **mohammadzaki7875@gmail.com**
 
-- 📄 Know about my experiences So Resume Here [https://drive.google.com/file/d/1zZM4g7psxhJ6ryAt33dAZgFc0NjV6LhV/view?usp=sharing](https://drive.google.com/file/d/1zZM4g7psxhJ6ryAt33dAZgFc0NjV6LhV/view?usp=sharing)
+- 📄 Know about my experiences So Resume Here [https://drive.google.com/file/d/1zZM4g7psxhJ6ryAt33dAZgFc0NjV6LhV/view?usp=sharing](https://drive.google.com/file/d/1-UFks0RkUdwbMO3cKwiq2O3f7D2MclAl/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
